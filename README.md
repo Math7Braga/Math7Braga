@@ -95,14 +95,6 @@ I'm organized, proactive and a clear communicator. I enjoy solving problems and 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Math7Braga&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math7Braga&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ⭐ If you like my work, consider starring a repository
 🤝 Open to internships, collaborations and new ideas in tech and innovation
